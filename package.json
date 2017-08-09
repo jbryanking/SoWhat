@@ -2,6 +2,7 @@
   "name": "soastaReader",
   "version": "0.1.0",
   "dependencies": {
+    "console-stamp": "^0.2.5",
     "gunzip-file": "^0.1.1",
     "resourcetiming-compression": "^0.3.3",
     "s3": "^4.4.0"

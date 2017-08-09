@@ -7,7 +7,8 @@
             "name": "Launch Program",
             "program": "${workspaceRoot}/app.js",
             "args": [
-                "2016-03-26"
+                "all",
+                //"deleteFilesAfterProcessing"
             ]
         }
     ],

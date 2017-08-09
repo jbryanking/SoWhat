@@ -25,7 +25,7 @@
     secureConnectionStart: 0,
     connectEnd: 0,
     requestStart: 0,
-    responseStart: 0,
+    tponseStart: 0,
     responseEnd: 12850,
     duration: 801 },
   { name: 'https://pong.qubitproducts.com/t2?qs-redacted',
